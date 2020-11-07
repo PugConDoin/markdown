@@ -1,2 +1,2 @@
 # markdown
-Notes on usig Markdown
+Notes on using Markdown
